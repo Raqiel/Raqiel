@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- uses: Raqiel/metrics@latest
+  with:
+    # ... other options
+    plugin_isocalendar: yes
+    plugin_isocalendar_duration: full-year # Display full year instead of half year
