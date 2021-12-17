@@ -1,3 +1,11 @@
+
+<div>
+    
+   ![Alt Text](http://lh5.ggpht.com/rosea80/SM2dL-ug0CI/AAAAAAAACL8/qR-IM71KXZE/325.gif) 
+  ![Alt Text](http://lh5.ggpht.com/rosea80/SM2dL-ug0CI/AAAAAAAACL8/qR-IM71KXZE/325.gif)  
+  </div>
+
+
 ## Olá, sou a Raqiel, uma artista plástica querendo entrar no mundo da programação <3
 <div align="center">
   <a href="https://github.com/raqiel">
