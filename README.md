@@ -17,3 +17,9 @@
   <a href="https://www.instagram.com/raqiel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raqiel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+  
+  <div>
+    
+   ![Alt Text](http://lh4.ggpht.com/_ndXzavhlHGo/S66HvDAJsRI/AAAAAAAAAPo/qPSvt4Ocp8k/s400/beijos123.png)
+  </div>
