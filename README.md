@@ -1,8 +1,7 @@
 
 <div>
     
-   ![Alt Text](http://lh5.ggpht.com/rosea80/SM2dL-ug0CI/AAAAAAAACL8/qR-IM71KXZE/325.gif) 
-  ![Alt Text](http://lh5.ggpht.com/rosea80/SM2dL-ug0CI/AAAAAAAACL8/qR-IM71KXZE/325.gif)  
+   ![Alt Text](http://lh5.ggpht.com/rosea80/SM2dL-ug0CI/AAAAAAAACL8/qR-IM71KXZE/325.gif) ![Alt Text](http://lh5.ggpht.com/rosea80/SM2dL-ug0CI/AAAAAAAACL8/qR-IM71KXZE/325.gif)  
   </div>
 
 
