@@ -5,7 +5,7 @@
   </div>
 
 
-## Olá, sou a Raqiel, uma artista plástica querendo entrar no mundo da programação <3
+## Olá, sou a Raqiel, desenvolvedora Android <3 <3 <3
 
 <div align="center">
   <a href="https://github.com/raqiel">
