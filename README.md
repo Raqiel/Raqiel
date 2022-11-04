@@ -5,9 +5,11 @@
   </div>
 
 
-## Olá, sou a Raqiel, desenvolvedora Android <3 <3 <3
+## Olá, sou a Raqiel, desenvolvedora Android <3 ![profile-gitblock](https://user-images.githubusercontent.com/88684171/200048168-8cdcdd3f-3ed1-439a-a5bb-cffe75f8a3eb.svg)
+<3 <3
 
-<div align="center">
+<div align="![profile-gitblock](https://user-images.githubusercontent.com/88684171/200048100-dbebe2ff-55cc-444c-951f-d9d9b888d1c0.svg)
+center">
   <a href="https://github.com/raqiel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raqiel&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqiel&layout=compact&langs_count=7&theme=dracula"/>
@@ -28,3 +30,6 @@
     
     
   ![profile-night-rainbow](https://user-images.githubusercontent.com/88684171/200045946-97659538-6f87-4afa-8ae6-20c70ff648d8.svg)
+    
+    ![profile-gitblock](https://user-images.githubusercontent.com/88684171/200048199-38fb1b48-f51f-4223-9fbc-8499e74eb654.svg)
+
