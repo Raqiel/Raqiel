@@ -1,7 +1,7 @@
 
 <div>
     
-   ![Alt Text](https://lh3.googleusercontent.com/LuViEvi/SLBeHeKhtMI/AAAAAAAAC_g/o8C_7_24BSU/nz75.gif) ![Alt Text](https://lh3.googleusercontent.com/LuViEvi/SLBeHeKhtMI/AAAAAAAAC_g/o8C_7_24BSU/nz75.gif)  
+  (https://lh3.googleusercontent.com/LuViEvi/SLBeHeKhtMI/AAAAAAAAC_g/o8C_7_24BSU/nz75.gif)  
   </div>
 
 
