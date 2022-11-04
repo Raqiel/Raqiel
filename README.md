@@ -25,7 +25,6 @@ center">
   </div>
     
     
-  ![profile-night-rainbow](https://user-images.githubusercontent.com/88684171/200045946-97659538-6f87-4afa-8ae6-20c70ff648d8.svg)
-    
+  
 
- ![profile-gitblock](https://user-images.githubusercontent.com/88684171/200048168-8cdcdd3f-3ed1-439a-a5bb-cffe75f8a3eb.svg)
+ ![profile-gitblock](profile-3d-contrib/profile-season-animate.svg)
