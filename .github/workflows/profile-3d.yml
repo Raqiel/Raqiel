@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 0 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+      - uses: actions/checkout@v2
+      - uses: Raqiel/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: ${{ secrets.RAQUEL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"type": "rainbow","fileName": "profile-custom-rainbow.svg","backgroundColor": "#00000f","foregroundColor": "#eeeeff","strongColor": "rgb(255,200,55)","weakColor": "#aaaaaa","radarColor": "rgb(255,200,55)","growingAnimation": true,"saturation": "50%","contribLightness": ["20%","30%","35%","40%","50%"],"duration": "10s","hueRatio": -7}'
       - name: Commit & Push
         run: |
           git config user.name github-actions
